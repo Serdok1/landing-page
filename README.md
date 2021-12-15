@@ -1,3 +1,3 @@
-##Responsive Landing Page with Next.js + Tailwind CSS + Chakra UI
+_Responsive Landing Page with Next.js + Tailwind CSS + Chakra UI_
 
-#Developed by Sina Eren Özbayram
+*Developed by Sina Eren Özbayram*
