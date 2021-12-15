@@ -25,6 +25,7 @@ module.exports = {
       footer: '1440px',
       herotablet: '688px',
       heromobile: '388px',
+      footermobile: '420px',
     },
     height: {
       mb:'670px',

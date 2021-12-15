@@ -25,7 +25,7 @@ import section3 from "/public/sec3.svg"
 export default function Home() {
   return (
     <div>
-    <div className="flex flex-row sm:mx-min lg:mx-sm mt-min justify-between">
+    <div className="flex flex-row sm:min-w-heromobile sm:mx-mobile lg:mx-sm mt-min justify-between">
      <div><Image src={logo} width="78px" height="28px"/></div>
      <div className="hidden lg:flex flex-row w-links h-links justify-between">
      <p className="font-sans text-s">Home</p>
@@ -110,7 +110,7 @@ export default function Home() {
 
     </div>
 
-    <div className="bg-purple-100 xl:min-w-footer h-footer mt-xl flex flex-col justify-center items-center">
+    <div className="bg-purple-100 sm:min-w-footermobile  xl:min-w-footer h-footer mt-xl flex flex-col justify-center items-center">
      <div className="flex sm:flex-col md:flex-row justify-between sm:w-heromobile md:w-herotablet w-footercont h-footercont">
       <div className="sm:hidden md:flex flex-col justify-between h-44">
        <p className="font-sans text-s mb-9">Product</p>
@@ -130,7 +130,7 @@ export default function Home() {
        <p className="font-sans text-xs text-gray-500">Privacy policy</p>
       </div>
  
-    <div className="md:hidden sm:flex sm:flex-row mb-min justify-between">
+    <div className="md:hidden sm:flex sm:flex-row mb-min justify-between ">
           <div className="flex flex-col justify-between h-44">
        <p className="font-sans text-s mb-9">Product</p>
        <p className="font-sans text-xs text-gray-500">How it works</p>
