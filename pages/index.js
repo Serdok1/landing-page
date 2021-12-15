@@ -91,7 +91,7 @@ export default function Home() {
     <p className="text-bodylg text-gray-400 ">Creativity is our second name. We&apos;re full of inventive ideas and we&apos;re happy to present them to you.</p>
     <button className="rounded-md bg-indigo-500 w-butreg h-butreg"><p className="text-white font-sans text-s">Learn more</p></button>
     </div>
-  " <div><Image src="/../public/images/Section image2.svg" width="600px" height="497px"/></div>
+   <div><Image src="/../public/images/Section image2.svg" width="600px" height="497px"/></div>
     </div>
 
     <div className="flex items-center lg:flex-row-reverse sm:flex-col sm:min-w-heromobile sm:h-sectionmobile mt-lg md:min-w-herotablet md:h-sectiontablet xl:min-w-section xl:h-section justify-between">
