@@ -20,7 +20,7 @@ import { ChevronDownIcon,HamburgerIcon,AddIcon,ExternalLinkIcon,RepeatIcon,EditI
 export default function Home() {
   return (
     <div>
-    <div className='flex flex-row sm:mx-min lg:mx-sm mt-min justify-between'>
+    <div class='flex flex-row sm:mx-min lg:mx-sm mt-min justify-between'>
      <div><Image src='/../public/images/Logo.png' width='78px' height='28px'/></div>
      <div class='hidden lg:flex flex-row w-links h-links justify-between'>
      <p class='font-sans text-s'>Home</p>
