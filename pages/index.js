@@ -16,10 +16,10 @@ import {
 } from "@chakra-ui/react"
 import { ChevronDownIcon,HamburgerIcon,AddIcon,ExternalLinkIcon,RepeatIcon,EditIcon } from "@chakra-ui/icons"
 import logo from '/public/Logo.png'
-import hero from "/public/Hero image.svg"
-import section1 from "/public/Section image.svg"
-import section2 from "/public/Section image2.svg"
-import section3 from "/public/Section image3.svg"
+import hero from "/public/hero.svg"
+import section1 from "/public/sec1.svg"
+import section2 from "/public/sec2.svg"
+import section3 from "/public/sec3.svg"
 
 
 export default function Home() {
