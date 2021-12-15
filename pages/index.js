@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <div>
     <div className="flex flex-row sm:mx-min lg:mx-sm mt-min justify-between">
-     <div><Image src="/../public/images/Logo.png" width="78px" height="28px"/></div>
+     <div><Image src="/../public/Logo.png" width="78px" height="28px"/></div>
      <div className="hidden lg:flex flex-row w-links h-links justify-between">
      <p className="font-sans text-s">Home</p>
      <p className="font-sans text-s">Features</p>
@@ -72,7 +72,7 @@ export default function Home() {
     <p className="text-bodylarge text-gray-400 ">Outcome-centered product that reduce churn, optimize pricing, and grow your subscription business end-to-end.</p>
     <button className="rounded-md bg-indigo-500 w-butreg h-butreg"><p className="text-white">Get Started</p></button>
     </div>
-    <div><Image src="/../public/images/Hero image.svg" width="642px" height="559px"/></div>
+    <div><Image src="/../public/Hero image.svg" width="642px" height="559px"/></div>
     </div>
 
     <div className="flex flex-col sm:mx-mobile md:mx-min lg:mx-min xl:mx-md 2xl:mx-xl  mt-sm justify-between">
@@ -82,7 +82,7 @@ export default function Home() {
     <p className="text-bodylg text-gray-400 ">A daily dataset to keep you up to date on subscription market trends and what&apos;s happening in your vertical.</p>
     <button className="rounded-md bg-indigo-500 w-butreg h-butreg"><p className="text-white font-sans text-s">Learn more</p></button>
     </div>
-    <div><Image src="/../public/images/Section image.svg" width="600px" height="442px"/></div>
+    <div><Image src="/../public/Section image.svg" width="600px" height="442px"/></div>
     </div>
 
     <div className="flex items-center lg:flex-row sm:flex-col mt-lg sm:min-w-heromobile sm:h-sectionmobile md:min-w-herotablet md:h-sectiontablet xl:min-w-section xl:h-section justify-between">
@@ -91,7 +91,7 @@ export default function Home() {
     <p className="text-bodylg text-gray-400 ">Creativity is our second name. We&apos;re full of inventive ideas and we&apos;re happy to present them to you.</p>
     <button className="rounded-md bg-indigo-500 w-butreg h-butreg"><p className="text-white font-sans text-s">Learn more</p></button>
     </div>
-   <div><Image src="/../public/images/Section image2.svg" width="600px" height="497px"/></div>
+   <div><Image src="/../public/Section image2.svg" width="600px" height="497px"/></div>
     </div>
 
     <div className="flex items-center lg:flex-row-reverse sm:flex-col sm:min-w-heromobile sm:h-sectionmobile mt-lg md:min-w-herotablet md:h-sectiontablet xl:min-w-section xl:h-section justify-between">
@@ -100,7 +100,7 @@ export default function Home() {
     <p className="text-bodylg text-gray-400">Well&sbquo; obviously&sbquo; we&apos;re professionals. Don&apos;t hesitate - get to know us better.</p>
     <button className="rounded-md bg-indigo-500 w-36 w-butreg h-butreg"><p className="text-white font-sans text-s">Learn more</p></button>
     </div>
-    <Image src="/../public/images/Section image3.svg" width="600px" height="406px"/>
+    <Image src="/../public/Section image3.svg" width="600px" height="406px"/>
     </div>
 
     </div>
