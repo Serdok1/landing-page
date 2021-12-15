@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <div>
     <div className='flex flex-row sm:mx-min lg:mx-sm mt-min justify-between'>
-     <div><Image src='/../public/images/Logo.png' width='78px' height='28px'/></div>
+     <div><Image src="/../public/images/Logo.png" width="78px" height="28px"/></div>
      <div className='hidden lg:flex flex-row w-links h-links justify-between'>
      <p className='font-sans text-s'>Home</p>
      <p className='font-sans text-s'>Features</p>
@@ -72,7 +72,7 @@ export default function Home() {
     <p className='text-bodylarge text-gray-400 '>Outcome-centered product that reduce churn, optimize pricing, and grow your subscription business end-to-end.</p>
     <button className='rounded-md bg-indigo-500 w-butreg h-butreg'><p className='text-white'>Get Started</p></button>
     </div>
-    <div><Image src='/../public/images/Hero image.svg' width='642px' height='559px'/></div>
+    <div><Image src="/../public/images/Hero image.svg" width="642px" height="559px"/></div>
     </div>
 
     <div className='flex flex-col sm:mx-mobile md:mx-min lg:mx-min xl:mx-md 2xl:mx-xl  mt-sm justify-between'>
@@ -82,7 +82,7 @@ export default function Home() {
     <p className='text-bodylg text-gray-400 '>A daily dataset to keep you up to date on subscription market trends and what's happening in your vertical.</p>
     <button className='rounded-md bg-indigo-500 w-butreg h-butreg'><p className='text-white font-sans text-s'>Learn more</p></button>
     </div>
-    <div><Image src='/../public/images/Section image.svg' width='600px' height='442px'/></div>
+    <div><Image src="/../public/images/Section image.svg" width="600px" height="442px"/></div>
     </div>
 
     <div className='flex items-center lg:flex-row sm:flex-col mt-lg sm:min-w-heromobile sm:h-sectionmobile md:min-w-herotablet md:h-sectiontablet xl:min-w-section xl:h-section justify-between'>
@@ -91,7 +91,7 @@ export default function Home() {
     <p className='text-bodylg text-gray-400 '>Creativity is our second name. We're full of inventive ideas and we're happy to present them to you.</p>
     <button className='rounded-md bg-indigo-500 w-butreg h-butreg'><p className='text-white font-sans text-s'>Learn more</p></button>
     </div>
-    <div><Image src='/../public/images/Section image2.svg' width='600px' height='497px'/></div>
+  " <div><Image src="/../public/images/Section image2.svg" width="600px" height="497px"/></div>
     </div>
 
     <div className='flex items-center lg:flex-row-reverse sm:flex-col sm:min-w-heromobile sm:h-sectionmobile mt-lg md:min-w-herotablet md:h-sectiontablet xl:min-w-section xl:h-section justify-between'>
@@ -100,62 +100,62 @@ export default function Home() {
     <p className='text-bodylg text-gray-400'>Well, obviously, we're professionals. Don't hesitate - get to know us better.</p>
     <button className='rounded-md bg-indigo-500 w-36 w-butreg h-butreg'><p className='text-white font-sans text-s'>Learn more</p></button>
     </div>
-    <Image src='/../public/images/Section image3.svg' width='600px' height='406px'/>
+    <Image src="/../public/images/Section image3.svg" width="600px" height="406px"/>
     </div>
 
     </div>
 
-    <div className='bg-purple-100 xl:min-w-footer h-footer mt-xl flex flex-col justify-center items-center'>
-     <div className='flex sm:flex-col md:flex-row justify-between sm:w-heromobile md:w-herotablet w-footercont h-footercont'>
-      <div className='sm:hidden md:flex flex-col justify-between h-44'>
-       <p className='font-sans text-s mb-9'>Product</p>
-       <p className='font-sans text-xs text-gray-500'>How it works</p>
-       <p className='font-sans text-xs text-gray-500'>Features</p>
-       <p className='font-sans text-xs text-gray-500'>Pricing</p>
-       <p className='font-sans text-xs text-gray-500'>FAQ</p>
-       <p className='font-sans text-xs text-gray-500'>Download</p>
+    <div className="bg-purple-100 xl:min-w-footer h-footer mt-xl flex flex-col justify-center items-center">
+     <div className="flex sm:flex-col md:flex-row justify-between sm:w-heromobile md:w-herotablet w-footercont h-footercont">
+      <div className="sm:hidden md:flex flex-col justify-between h-44">
+       <p className="font-sans text-s mb-9">Product</p>
+       <p className="font-sans text-xs text-gray-500">How it works</p>
+       <p className="font-sans text-xs text-gray-500">Features</p>
+       <p className="font-sans text-xs text-gray-500">Pricing</p>
+       <p className="font-sans text-xs text-gray-500">FAQ</p>
+       <p className="font-sans text-xs text-gray-500">Download</p>
       </div>
 
-      <div className='sm:hidden md:flex flex-col justify-between h-44'>
-       <p className='font-sans text-s mb-9'>Company</p>
-       <p className='font-sans text-xs text-gray-500'>About</p>
-       <p className='font-sans text-xs text-gray-500'>Blog</p>
-       <p className='font-sans text-xs text-gray-500'>Partnership</p>
-       <p className='font-sans text-xs text-gray-500'>Terms of use</p>
-       <p className='font-sans text-xs text-gray-500'>Privacy policy</p>
+      <div className="sm:hidden md:flex flex-col justify-between h-44">
+       <p className="font-sans text-s mb-9">Company</p>
+       <p className="font-sans text-xs text-gray-500">About</p>
+       <p className="font-sans text-xs text-gray-500">Blog</p>
+       <p className="font-sans text-xs text-gray-500">Partnership</p>
+       <p className="font-sans text-xs text-gray-500">Terms of use</p>
+       <p className="font-sans text-xs text-gray-500">Privacy policy</p>
       </div>
  
-    <div className='md:hidden sm:flex sm:flex-row mb-min justify-between'>
-          <div className='flex flex-col justify-between h-44'>
-       <p className='font-sans text-s mb-9'>Product</p>
-       <p className='font-sans text-xs text-gray-500'>How it works</p>
-       <p className='font-sans text-xs text-gray-500'>Features</p>
-       <p className='font-sans text-xs text-gray-500'>Pricing</p>
-       <p className='font-sans text-xs text-gray-500'>FAQ</p>
-       <p className='font-sans text-xs text-gray-500'>Download</p>
+    <div className="md:hidden sm:flex sm:flex-row mb-min justify-between">
+          <div className="flex flex-col justify-between h-44">
+       <p className="font-sans text-s mb-9">Product</p>
+       <p className="font-sans text-xs text-gray-500">How it works</p>
+       <p className="font-sans text-xs text-gray-500">Features</p>
+       <p className="font-sans text-xs text-gray-500">Pricing</p>
+       <p className="font-sans text-xs text-gray-500">FAQ</p>
+       <p className="font-sans text-xs text-gray-500">Download</p>
       </div>
 
-      <div className='flex flex-col justify-between h-44'>
-       <p className='font-sans text-s mb-9'>Company</p>
-       <p className='font-sans text-xs text-gray-500'>About</p>
-       <p className='font-sans text-xs text-gray-500'>Blog</p>
-       <p className='font-sans text-xs text-gray-500'>Partnership</p>
-       <p className='font-sans text-xs text-gray-500'>Terms of use</p>
-       <p className='font-sans text-xs text-gray-500'>Privacy policy</p>
+      <div className="flex flex-col justify-between h-44">
+       <p className="font-sans text-s mb-9">Company</p>
+       <p className="font-sans text-xs text-gray-500">About</p>
+       <p className="font-sans text-xs text-gray-500">Blog</p>
+       <p className="font-sans text-xs text-gray-500">Partnership</p>
+       <p className="font-sans text-xs text-gray-500">Terms of use</p>
+       <p className="font-sans text-xs text-gray-500">Privacy policy</p>
       </div>
 
     </div>
 
-      <div className='flex flex-col justify-between mb-sm'>
-       <p className='font-sans text-s mb-9'>Support</p>
-       <p className='font-sans text-xs text-gray-500'>Help center</p>
-       <p className='font-sans text-xs text-gray-500'>Contact us</p>
+      <div className="flex flex-col justify-between mb-sm">
+       <p className="font-sans text-s mb-9">Support</p>
+       <p className="font-sans text-xs text-gray-500">Help center</p>
+       <p className="font-sans text-xs text-gray-500">Contact us</p>
       </div>
 
 
      </div>
     
-    <p className='font-sans text-xs text-gray-500 mt-sm'>@Sina Eren-Front End Developer</p>
+    <p className="font-sans text-xs text-gray-500 mt-sm">@Sina Eren-Front End Developer</p>
     
     </div>
     
