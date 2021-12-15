@@ -1,5 +1,5 @@
-import Head from 'next/head'
-import Image from 'next/image'
+import Head from "next/head"
+import Image from "next/image"
 import {
   Menu,
   MenuButton,
@@ -13,8 +13,8 @@ import {
   MenuDivider,
   Button,
   IconButton,
-} from '@chakra-ui/react'
-import { ChevronDownIcon,HamburgerIcon,AddIcon,ExternalLinkIcon,RepeatIcon,EditIcon } from '@chakra-ui/icons'
+} from "@chakra-ui/react"
+import { ChevronDownIcon,HamburgerIcon,AddIcon,ExternalLinkIcon,RepeatIcon,EditIcon } from "@chakra-ui/icons"
 
 
 export default function Home() {
