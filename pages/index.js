@@ -68,7 +68,7 @@ export default function Home() {
 
     <div className="flex sm:flex-col lg:flex-row xl:min-w-hero xl:h-hero md:min-w-herotablet md:h-herotablet sm:min-w-heromobile sm:h-heromobile items-center md:mt-min lg:mt-px xl:mt-lg sm:mx-mobile sm:mt-md lg:mx-min xl:mx-md 2xl:mx-xl justify-between">
     <div className="flex flex-col justify-between lg:w-herocont lg:h-herocont md:w-herotablet md:h-herotabletcont sm:w-heromobile sm:h-herocontmobile  ">
-    <h1 className=" sm:text-H1M md:text-H1D">Let's get fusely together</h1>
+    <h1 className=" sm:text-H1M md:text-H1D">Let&apos;s get fusely together</h1>
     <p className="text-bodylarge text-gray-400 ">Outcome-centered product that reduce churn, optimize pricing, and grow your subscription business end-to-end.</p>
     <button className="rounded-md bg-indigo-500 w-butreg h-butreg"><p className="text-white">Get Started</p></button>
     </div>
@@ -79,7 +79,7 @@ export default function Home() {
     <div className="flex items-center sm:flex-col lg:flex-row-reverse mt-sm sm:min-w-heromobile sm:h-sectionmobile md:min-w-herotablet md:h-sectiontablet xl:min-w-section xl:h-section justify-between">
     <div className="flex flex-col justify-between mt-sm sm:w-heromobile sm:h-sectioncontmobile md:w-herotablet md:h-sectionconttablet xl:w-sectioncont xl:h-sectioncont">
     <p className=" sm:text-H2M md:text-H2D ">Detailed Examination</p>
-    <p className="text-bodylg text-gray-400 ">A daily dataset to keep you up to date on subscription market trends and what's happening in your vertical.</p>
+    <p className="text-bodylg text-gray-400 ">A daily dataset to keep you up to date on subscription market trends and what&apos;s happening in your vertical.</p>
     <button className="rounded-md bg-indigo-500 w-butreg h-butreg"><p className="text-white font-sans text-s">Learn more</p></button>
     </div>
     <div><Image src="/../public/images/Section image.svg" width="600px" height="442px"/></div>
@@ -88,7 +88,7 @@ export default function Home() {
     <div className="flex items-center lg:flex-row sm:flex-col mt-lg sm:min-w-heromobile sm:h-sectionmobile md:min-w-herotablet md:h-sectiontablet xl:min-w-section xl:h-section justify-between">
     <div className="flex flex-col justify-between mt-sm sm:w-heromobile sm:h-sectioncontmobile md:w-herotablet md:h-sectionconttablet xl:w-sectioncont xl:h-sectioncont">
     <p className=" sm:text-H2M md:text-H2D ">Creative Solutions</p>
-    <p className="text-bodylg text-gray-400 ">Creativity is our second name. We're full of inventive ideas and we're happy to present them to you.</p>
+    <p className="text-bodylg text-gray-400 ">Creativity is our second name. We&apos;re full of inventive ideas and we&apos;re happy to present them to you.</p>
     <button className="rounded-md bg-indigo-500 w-butreg h-butreg"><p className="text-white font-sans text-s">Learn more</p></button>
     </div>
   " <div><Image src="/../public/images/Section image2.svg" width="600px" height="497px"/></div>
@@ -97,7 +97,7 @@ export default function Home() {
     <div className="flex items-center lg:flex-row-reverse sm:flex-col sm:min-w-heromobile sm:h-sectionmobile mt-lg md:min-w-herotablet md:h-sectiontablet xl:min-w-section xl:h-section justify-between">
     <div className="flex flex-col justify-between mt-sm rd:w-herotablet sm:w-heromobile sm:h-sectioncontmobile md:w-herotablet md:h-sectionconttablet xl:w-sectioncont xl:h-sectioncont">
     <p className=" sm:text-H2M md:text-H2D ">Proffesional Team</p>
-    <p className="text-bodylg text-gray-400">Well, obviously, we're professionals. Don't hesitate - get to know us better.</p>
+    <p className="text-bodylg text-gray-400">Well&sbquo; obviously&sbquo; we&apos;re professionals. Don&apos;t hesitate - get to know us better.</p>
     <button className="rounded-md bg-indigo-500 w-36 w-butreg h-butreg"><p className="text-white font-sans text-s">Learn more</p></button>
     </div>
     <Image src="/../public/images/Section image3.svg" width="600px" height="406px"/>
