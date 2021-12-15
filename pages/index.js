@@ -15,13 +15,13 @@ import {
   IconButton,
 } from "@chakra-ui/react"
 import { ChevronDownIcon,HamburgerIcon,AddIcon,ExternalLinkIcon,RepeatIcon,EditIcon } from "@chakra-ui/icons"
-
+import logo from '/public/Logo.png'
 
 export default function Home() {
   return (
     <div>
     <div className="flex flex-row sm:mx-min lg:mx-sm mt-min justify-between">
-     <div><Image src="/../public/Logo.png" width="78px" height="28px"/></div>
+     <div><Image src={logo} width="78px" height="28px"/></div>
      <div className="hidden lg:flex flex-row w-links h-links justify-between">
      <p className="font-sans text-s">Home</p>
      <p className="font-sans text-s">Features</p>
